@@ -1,4 +1,4 @@
-## Olá eu sou o Uriel Ribeiro, técnico em desenvolvimento de sistemas!
+## Olá eu sou o Uriel Ribeiro!
 <div align="center">
   <a href="https://github.com/UrielhRibeiro">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=UrielhRibeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
