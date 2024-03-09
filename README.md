@@ -5,7 +5,7 @@
 - I'm from Brazil
 - Backend Developer 👨🏽‍💻
 - Systems development technician 🎓
-- Computer engineering student 2/10 📚
+- Computer engineering student 3/10 📚
   
   
 <div align="center">
